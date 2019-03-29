@@ -1,2 +1,2 @@
-# miscellaneous
+# Miscellaneous
 Fun and useless scripts
